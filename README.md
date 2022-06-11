@@ -1,4 +1,13 @@
 # 计算机中英字幕精品教程
+
+## 扫码关注公众号，获取最新教程信息
+
+<img src=https://tern-1257285733.cos.ap-beijing.myqcloud.com/20220611094816.png width=25% />
+
+## B站
+
+【IT教程精选的个人空间-哔哩哔哩】 https://b23.tv/zKrekjY
+
 ## 人工智能
 ### 【中英双语】机器学习：Python & R 实践
 课程英文名称：Machine Learning A-Z: Hands-On Python & R In Data Science
