@@ -12,7 +12,6 @@
 
 【IT教程精选的个人空间-哔哩哔哩】 https://b23.tv/zKrekjY
 
-# 计算机中英字幕精品教程
 ## 人工智能
 ### 机器学习：Python & R 实践
 课程英文名称：Machine Learning A-Z: Hands-On Python & R In Data Science
