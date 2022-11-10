@@ -1,960 +1,362 @@
-# 计算机中英字幕精品教程
-
-https://www.aihorizon.cn/
-
-计算机字幕视频教程网持续更新Udemy，Coursera等在线课堂上的视频教程，类别涵盖人工智能、机器学习、编程语言、游戏开发、网络安全、云计算、Linux运维、面试技巧等计算机学科的全部知识。
-
-所有视频教程均包含中英双语字幕、练习源码及配套的补充资料。
-
-## 扫码关注公众号，获取最新教程信息
-
-<img src=https://tern-1257285733.cos.ap-beijing.myqcloud.com/20220611094816.png width=25% />
-
-## B站
-
-【IT教程精选的个人空间-哔哩哔哩】 https://b23.tv/zKrekjY
-
-# 计算机中英字幕精品教程
+# 计算机视频教程
 ## 人工智能
-### 机器学习：Python & R 实践
-课程介绍：https://www.aihorizon.cn/1
-
-百度网盘地址： https://pan.baidu.com/s/1a743NTKFRjsgexMTagWooA?pwd=e39j
-
-### 动手使用 Python 进行自然语言处理 (NLP)
-课程介绍：https://www.aihorizon.cn/2
-
-百度网盘地址： https://pan.baidu.com/s/1xARb1TUg6mabDK7992yCTw?pwd=wwfx
-
-### 自动驾驶—计算机视觉全课程
-课程介绍：https://www.aihorizon.cn/5
-
-百度网盘地址： https://pan.baidu.com/s/1lQtYTXn3SQB0bDKF5dPItg?pwd=veap
-
-### Python强化学习实战—8类智能体
-课程介绍：https://www.aihorizon.cn/7
-
-百度网盘地址： https://pan.baidu.com/s/1Nuz_QVbQ59u2WS1ldh12Gw?pwd=kc6h
-
-### Python强化学习高级教程
-课程介绍：https://www.aihorizon.cn/20
-
-百度网盘地址： https://pan.baidu.com/s/1OqUpn_LJHyuJax-fdjYKqQ?pwd=fz91
-
-### 从零学习如何构建人工智能
-课程介绍：https://www.aihorizon.cn/21
-
-百度网盘地址： https://pan.baidu.com/s/1sZYm0zioLbFQKhD88VyPYw?pwd=ihkd
-
-### TensorFlow 2.0 大师班：动手深度学习和人工智能
-课程介绍：https://www.aihorizon.cn/27
-
-百度网盘地址： https://pan.baidu.com/s/1Jh_qGA8YYXf5Azss9hpE1w?pwd=tp4m
-
-### 计算机视觉大师班Opencv 和 Python
-课程介绍：https://www.aihorizon.cn/40
-
-百度网盘地址： https://pan.baidu.com/s/1jxXiWwbmLhqxdNBzFuJQEQ?pwd=m157
-
-### Kaggle Masterclass - 构建机器学习组合
-课程介绍：https://www.aihorizon.cn/42
-
-百度网盘地址： https://pan.baidu.com/s/1U4QxTMAIPUfvbXWN-FlTTA?pwd=0fe8
-
-### Python 数据科学实战
-课程介绍：https://www.aihorizon.cn/76
-
-百度网盘地址： https://pan.baidu.com/s/1WU6seaX9pJZib18bvyNl5Q?pwd=dow9
-
-### Docker 机器学习和数据科学大师班
-课程介绍：https://www.aihorizon.cn/79
-
-百度网盘地址： https://pan.baidu.com/s/1CP_hPvE_c3V34gpUgZOHJQ?pwd=rlay
-
-### 机器学习Python实战
-课程介绍：https://www.aihorizon.cn/92
-
-百度网盘地址： https://pan.baidu.com/s/1ITzJuTvPiwO9Nl3eE5hp9Q?pwd=bafu
-
-### R语言文本挖掘和自然语言处理教程
-课程介绍：https://www.aihorizon.cn/101
-
-百度网盘地址： https://pan.baidu.com/s/1PMna7ZwJALm-xZ0lvnTClQ?pwd=2xtu
-
-### 使用 Python 和 Keras 进行深度学习
-课程介绍：https://www.aihorizon.cn/116
-
-百度网盘地址： https://pan.baidu.com/s/19VPKnIuWkr2vBxc2lhEczQ?pwd=nn2z
-
-### Python 中的聚类分析和无监督学习
-课程介绍：https://www.aihorizon.cn/128
-
-百度网盘地址： https://pan.baidu.com/s/1PuBIOmrlBFYMXGBm2kw3iQ?pwd=bkny
-
-### Streamlit 数据科学应用程序完整指南
-课程介绍：https://www.aihorizon.cn/130
-
-百度网盘地址： https://pan.baidu.com/s/1-aBne5DtBc8hbZQQnE04Yg?pwd=tohs
-
-### 图像处理Web应用开发教程
-课程介绍：https://www.aihorizon.cn/131
-
-百度网盘地址： https://pan.baidu.com/s/1VxYh8tRB0ydVkKO0qZuidg?pwd=r235
-
-### 计算机视觉中的深度学习方法
-课程介绍：https://www.aihorizon.cn/133
-
-百度网盘地址： https://pan.baidu.com/s/1-MaefHyPLrsfnRXpeXYLVg?pwd=9usu
-
-### Pytorch卷积神经网络教程
-课程介绍：https://www.aihorizon.cn/134
-
-百度网盘地址： https://pan.baidu.com/s/1HcSpZh0gYIjUPJ0A-RI71A?pwd=qgrj
-
-### R语言NLP及情感分析教程
-课程介绍：https://www.aihorizon.cn/136
-
-百度网盘地址： https://pan.baidu.com/s/1SeIePPoXK6D2QSiR8weFWA?pwd=59q6
-
-### 深度学习：高级计算机视觉教程（GAN、SSD 等！）
-课程介绍：https://www.aihorizon.cn/138
-
-百度网盘地址： https://pan.baidu.com/s/15kIGYHvIDpfVIBSbte8PxA?pwd=k934
-
-### Tensorflow 2深度学习图像分割教程
-课程介绍：https://www.aihorizon.cn/139
-
-百度网盘地址： https://pan.baidu.com/s/1MiqT1GyiSUq0a0KbiZcyKw?pwd=3878
-
-### 深度学习：Python循环神经网络教程
-课程介绍：https://www.aihorizon.cn/140
-
-百度网盘地址： https://pan.baidu.com/s/1YkTGlecXXyNjRmP-5K_pPw?pwd=kn35
-
-### 机器学习的超参数优化
-课程介绍：https://www.aihorizon.cn/150
-
-百度网盘地址： https://pan.baidu.com/s/16qJ1h0x88vEFiN2RQ9gI6Q?pwd=7kod
-
-### R语言机器学习回归分析教程
-课程介绍：https://www.aihorizon.cn/164
-
-百度网盘地址： https://pan.baidu.com/s/16Moq5S_FnAkp6q8ffAgGvA?pwd=bp31
-
-### Javascript机器学习和人工智能教程
-课程介绍：https://www.aihorizon.cn/165
-
-百度网盘地址： https://pan.baidu.com/s/1v33iv1HlMztLviYY6pe5ew?pwd=zavz
-
-### 机器学习在GIS中的理论与实践
-课程介绍：https://www.aihorizon.cn/166
-
-百度网盘地址： https://pan.baidu.com/s/191uwujQRhxGqRdGlf66XHQ?pwd=uqt6
-
-### 机器学习面试教程
-课程介绍：https://www.aihorizon.cn/167
-
-百度网盘地址： https://pan.baidu.com/s/1UTyutqPn5aw5ID4kEC7-UQ?pwd=hey7
-
-### ML.NET机器学习教程
-课程介绍：https://www.aihorizon.cn/168
-
-百度网盘地址： https://pan.baidu.com/s/19AWrlGm3iwrXMFAIZpKPVA?pwd=httf
-
-### Tensorflow 2及Keras深度学习教程
-课程介绍：https://www.aihorizon.cn/180
-
-百度网盘地址： https://pan.baidu.com/s/13cJ-j351_MbcH8Sv6NiZCQ?pwd=1krr
-
-### Tensorflow 2.0深度学习及人工智能教程
-课程介绍：https://www.aihorizon.cn/181
-
-百度网盘地址： https://pan.baidu.com/s/1y7SBYWT65vrhu2v-8lxBLQ?pwd=buq3
-
-### 医学领域人工智能完整教程
-课程介绍：https://www.aihorizon.cn/184
-
-百度网盘地址： https://pan.baidu.com/s/1uRm9RbEMooy3I7Z4uV389g?pwd=wwfv
+### 百度网盘地址： https://pan.baidu.com/s/1_eoVIwUijTDjw8v5pVDccA?pwd=ndku
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/h6VPyoJbaDm
+- 机器学习：Python&R实践，Machine Learning A-Z: Hands-On Python & R In Data Science
+- 动手使用Python进行自然语言处理(NLP)，Hands On Natural Language Processing (NLP) using Python
+- 自动驾驶—计算机视觉全课程，Autonomous Cars The Complete Computer Vision Course 2021
+- Python强化学习实战—8类智能体，Practical Reinforcement Learning using Python-8 AI Agents
+- Python强化学习高级教程，Advanced AI Deep Reinforcement Learning in Python
+- 从零学习如何构建人工智能，Artificial Intelligence A-Z Learn How To Build An AI
+- TensorFlow2.0大师班：动手深度学习和人工智能，TensorFlow 2.0 Masterclass Hands-On Deep Learning and AI
+- 计算机视觉大师班Opencv和Python，Complete Python OpenCV Computer Vision Masterclass
+- KaggleMasterclass-构建机器学习组合，Kaggle Masterclass - build a Data Science Portfolio
+- Python数据科学实战，Data Science Real World Projects in Python
+- Docker机器学习和数据科学大师班，Docker Masterclass for Machine Learning and Data Science
+- 机器学习Python实战，Machine Learning Real World projects in Python
+- R语言文本挖掘和自然语言处理教程，Text Mining and Natural Language Processing in R
+- 使用Python和Keras进行深度学习，Deep Learning with Python and Keras
+- Python中的聚类分析和无监督学习，Cluster Analysis and Unsupervised Machine Learning in Python
+- Streamlit数据科学应用程序完整指南，Complete Guide to Data Science Applications with Streamlit
+- 图像处理Web应用开发教程，Complete Image Processing MACHINE LEANRING WEBSITE in CLOUD
+- 计算机视觉中的深度学习方法，Computer Vision with Deep Learning
+- Pytorch卷积神经网络教程，Convolutional Neural Networks with Pytorch
+- R语言NLP及情感分析教程，Data Science NLP and Sentimental Analysis in R
+- 深度学习：高级计算机视觉教程（GAN、SSD等！），Deep Learning Advanced Computer Vision (GANs, SSD, +More!)
+- Tensorflow2深度学习图像分割教程，Deep learning for image segmentation using Tensorflow 2
+- 深度学习：Python循环神经网络教程，Deep Learning Recurrent Neural Networks with Python
+- 机器学习的超参数优化，Hyperparameter Optimization for Machine Learning
+- R语言机器学习回归分析教程，Machine Learning 2021 Practical Regression Analysis in R
+- Javascript机器学习和人工智能教程，Machine Learning and Artificial Intelligence with Javascript
+- 机器学习在GIS中的理论与实践，Machine Learning in GIS  Understand the Theory and Practice
+- 机器学习面试教程，Machine Learning Interview Questions & Answers
+- ML.NET机器学习教程，Machine Learning with ML.NET
+- Tensorflow2及Keras深度学习教程，Tensorflow 2 & KerasDeep Learning & Artificial Intelligence
+- Tensorflow2.0深度学习及人工智能教程，Tensorflow 2.0 Deep Learning and Artificial Intelligence
+- 医学领域人工智能完整教程，The Complete Healthcare Artificial Intelligence Course 2021
+- 如何用Excel进行机器学习，Excel for Data Science and Machine Learning
+- 使用 Kibana 进行数据可视化，Data Visualization with Kibana
+- Python 和 Tableau：完整的数据分析训练营，Python and Tableau The Complete Data Analytics Bootcamp!
+- R语言商业推荐系统实战，Practical Recommender Systems For Business Applications in R
+- 用于数据科学的 Web Scraping – Python 和 Selenium – 基础，Web Scraping for Data Science - Python & Selenium - Basics
+- PyTorch深度学习医学图像分析教程，Deep Learning with PyTorch for Medical Image Analysis
+- Python 中的高级强化学习：从 DQN 到 SAC，Advanced Reinforcement Learning in Python from DQN to SAC
+- Python推荐系统和深度学习教程，Recommender Systems and Deep Learning in Python
+- Javascript机器学习教程，Machine Learning with Javascript
+- Python工作任务自动化教程，Automate the Boring Stuff with Python Programming
+- Python遗传算法初学者教程，The Ultimate Beginners Guide to Genetic Algorithms In Python
 
 ## 游戏开发
-### UE4：学习C++开发游戏
-课程介绍：https://www.aihorizon.cn/3
-
-百度网盘地址： https://pan.baidu.com/s/1zBq0Np1-7HDB8dJAVTImWQ?pwd=hck0
-
-### 精通UE4：使用 C++ 创建多人游戏
-课程介绍：https://www.aihorizon.cn/4
-
-百度网盘地址： https://pan.baidu.com/s/1OertBtvBYK6_fU-B2iJVig?pwd=lsyf
-
-### 使用PyGame 进行Flappy Bird 开发
-课程介绍：https://www.aihorizon.cn/9
-
-百度网盘地址： https://pan.baidu.com/s/1ylis2b1RPlj2to6iXP65Sg?pwd=pbqm
-
-### Unity多人游戏初学者教程
-课程介绍：https://www.aihorizon.cn/10
-
-百度网盘地址： https://pan.baidu.com/s/1HKA3Q5P5ClX_j-TsQP2qkA?pwd=cqoj
-
-### 使用JavaScript 及Three.js开发3D网页游戏
-课程介绍：https://www.aihorizon.cn/29
-
-百度网盘地址： https://pan.baidu.com/s/1edZktIIH_9GKsW6AP5cDFQ?pwd=2ngm
-
-### Unity：从零开始构建 2D 游戏
-课程介绍：https://www.aihorizon.cn/38
-
-百度网盘地址： https://pan.baidu.com/s/1GTN-KLQrz8nKI-UdzudeUA?pwd=n43e
-
-### 用 Python 制作 10 款高级专业游戏
-课程介绍：https://www.aihorizon.cn/91
-
-百度网盘地址： https://pan.baidu.com/s/1WuD09sjBSRnTNac6_kCUZA?pwd=by38
-
-###  Unity 2020网络初学者教程
-课程介绍：https://www.aihorizon.cn/105
-
-百度网盘地址： https://pan.baidu.com/s/1fFhyiYdr58pXPT4B2VChmg?pwd=edp6
-
-### Unity 3D开发TPS僵尸生存游戏
-课程介绍：https://www.aihorizon.cn/127
-
-百度网盘地址： https://pan.baidu.com/s/1KiB3GtZ3p3BeLMynh6gnDQ?pwd=667j
-
-### 完整的虚幻引擎超级课程：从初学者到专家
-课程介绍：https://www.aihorizon.cn/132
-
-百度网盘地址： https://pan.baidu.com/s/1w1T1Ae_HoaWIypaxtnpuDA?pwd=61sf
-
-### JS 中的游戏开发完整指南
-课程介绍：https://www.aihorizon.cn/147
-
-百度网盘地址： https://pan.baidu.com/s/1vpC_f2Ex8FclaOepFMFBxw?pwd=ikjy
-
-### Unity 2D游戏教程
-课程介绍：https://www.aihorizon.cn/157
-
-百度网盘地址： https://pan.baidu.com/s/1v6VT-SJa0q3PJogZCsQljg?pwd=vm4w
-
-### Unity多人在线游戏教程
-课程介绍：https://www.aihorizon.cn/158
-
-百度网盘地址： https://pan.baidu.com/s/1qqNIScTo6p8q94yUp_Ha2Q?pwd=ytuu
-
-### 从零开始学习Lua脚本
-课程介绍：https://www.aihorizon.cn/163
-
-百度网盘地址： https://pan.baidu.com/s/1QTMQqCyoLSfGKXD8YqMnuA?pwd=f08v
-
-### 虚幻5游戏教程
-课程介绍：https://www.aihorizon.cn/169
-
-百度网盘地址： https://pan.baidu.com/s/1bxIjNj_uolLmmQ7NRgqpOg?pwd=o7np
-
-### ThreeJS开发3D网页游戏初学者指南
-课程介绍：https://www.aihorizon.cn/182
-
-百度网盘地址： https://pan.baidu.com/s/1N109u0sYFV63ySYDfJw6fA?pwd=d2nh
-
-### 终极Unity完整教程
-课程介绍：https://www.aihorizon.cn/186
-
-百度网盘地址： https://pan.baidu.com/s/1qk56Z5PHJ9MmVG5TfyZZAA?pwd=coq9
-
-### UE5第一人称射击游戏蓝图教程
-课程介绍：https://www.aihorizon.cn/187
-
-百度网盘地址： https://pan.baidu.com/s/1itd2HyL7YXZFAjow1SBiSg?pwd=43cr
+### 百度网盘地址： https://pan.baidu.com/s/1301-Ypy2oEP71O2eG1Eakg?pwd=hsgs
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/fPTXdSUUzbe
+- UE4：学习C++开发游戏，Unreal Engine C++ Developer Learn C++ and Make Video Games
+- 精通UE4：使用C++创建多人游戏，Unreal Engine 4 Mastery: Create Multiplayer Games with C++
+- 使用PyGame进行FlappyBird开发，Game Development with PyGame   Real World Games
+- Unity多人游戏初学者教程，Beginner's Guide to Multiplayer Game Development in Unity
+- 使用JavaScript及Three.js开发3D网页游戏，3D Web Game Development with JavaScript and Three.js
+- Unity：从零开始构建2D游戏，Building 2D Games in Unity Beginner to Advanced
+- 用Python制作10款高级专业游戏，Learn 10 Games using Python - 2021
+- Unity2020网络初学者教程，Unity Networking From Scratch for (Unity 5 to Unity 2020)
+- Unity3D开发TPS僵尸生存游戏，Build TPS Zombies Survival Game - Unity 3D Game Engine
+- 完整的虚幻引擎超级课程：从初学者到专家，Complete Unreal Engine Megacourse - Beginner to Expert
+- JS中的游戏开发完整指南，Game Development in JS - The Complete Guide (Phaser 3)
+- Unity2D游戏教程，Learn to create a 2D Platformer Game with Unity 2021
+- Unity多人在线游戏教程，Learn To Create An Online Multiplayer Game In Unity
+- 从零开始学习Lua脚本，Lua Scripting Master complete Lua Programming from scratch
+- 虚幻5游戏教程，Make an Unreal Engine 5 Platform Game
+- ThreeJS开发3D网页游戏初学者指南，The Beginners Guide to 3D Web Game Development with ThreeJS
+- 终极Unity完整教程，Ultimate Unity Overview (30+ Tools and Features Explained!)
+- UE5第一人称射击游戏蓝图教程，Unreal Engine 5 Blueprints - First Person Shooter (FPS)
+- JavaScript游戏开发实战，JavaScript Create 5 Fun Word Games
+- 虚幻引擎5制作3A大作教程，Unreal Engine 5 - Make AAA Game Vehicles
+- 基于行为树的高级游戏AI教程，Learn Advanced AI for Games with Behaviour Trees 07.2021
+- 使用Unity制作3D驾驶游戏，Make a Driving Game in Unity 08.2021
+- 虚幻引擎5 C++游戏开发教程，Unreal Engine 5 C++ Developer Learn C++ & Make Video Games
+- Unity VR游戏教程，Mastering Unity VR Games
+- Oculus Quest 2 和 Unity 的 VR 开发基础知识，VR Development Fundamentals With Oculus Quest 2 And Unity
+- Unity VR太空射击游戏教程，Learn Unity Games Engine & C# By Creating A VR Space Shooter
+- Unity计算着色器视频教程，Learn to Write Unity Compute Shaders
 
 ## Web开发
-### React、Next.js 和 Django：快速指南
-课程介绍：https://www.aihorizon.cn/6
-
-百度网盘地址： https://pan.baidu.com/s/1YPFZXXFqc06zjqns8BR54A?pwd=jvaq
-
-### WordPress主题及插件完整开发教程
-课程介绍：https://www.aihorizon.cn/12
-
-百度网盘地址： https://pan.baidu.com/s/1Q4DUTkIoS00rGylxhjUPWw?pwd=cspb
-
-### HTML, CSS & Python Django全栈Web开发
-课程介绍：https://www.aihorizon.cn/14
-
-百度网盘地址： https://pan.baidu.com/s/1ZCviF6t56vodfx5C8jRXfQ?pwd=84g3
-
-###  Angular新手到大师全教程
-课程介绍：https://www.aihorizon.cn/19
-
-百度网盘地址： https://pan.baidu.com/s/1bpMkMRJlq6UkwfWJHjHncQ?pwd=w1u0
-
-### HTML & CSS 完整指南：像老板一样建立网站
-课程介绍：https://www.aihorizon.cn/30
-
-百度网盘地址： https://pan.baidu.com/s/1SZKAtZYb9J3nAFQQqVa7mg?pwd=1slu
-
-### 用 3 个项目从头开始完成 Bootstrap 5 课程
-课程介绍：https://www.aihorizon.cn/52
-
-百度网盘地址： https://pan.baidu.com/s/1Yf6cA9xnOE-EiXZYmLzGTw?pwd=ptgk
-
-### Python Django 电子商务网站教程
-课程介绍：https://www.aihorizon.cn/54
-
-百度网盘地址： https://pan.baidu.com/s/1Rg2FMJvaO2G5HiZkkGOXzQ?pwd=vq1i
-
-### 构建一个使用 PHP 和 MySQL 的电子商务网站
-课程介绍：https://www.aihorizon.cn/57
-
-百度网盘地址： https://pan.baidu.com/s/12CXZjuP7zJrMh5M3cu6oGg?pwd=ratg
-
-### 使用 React、Node 和 Stripe 构建购物车应用
-课程介绍：https://www.aihorizon.cn/70
-
-百度网盘地址： https://pan.baidu.com/s/17y2GdstwmMIjoaLIiBBmCA?pwd=h6wk
-
-### 完整的渐进式 Web 应用训练营
-课程介绍：https://www.aihorizon.cn/74
-
-百度网盘地址： https://pan.baidu.com/s/1xtyrAKj0eEH2X5vvVzU3vw?pwd=brf3
-
-### 使用 Spring Boot 和 MongoDB 进行全栈开发
-课程介绍：https://www.aihorizon.cn/80
-
-百度网盘地址： https://pan.baidu.com/s/1X3RhFnYUgB8dk9dIGCh9dw?pwd=51bp
-
-### 通过构建电影网页应用来学习Vue.js
-课程介绍：https://www.aihorizon.cn/106
-
-百度网盘地址： https://pan.baidu.com/s/1FZ5YUHyam6O_iAjVo5Q3kQ?pwd=kbx5
-
-### 使用 JQuery 开发 Wordpress 插件（2021 年
-课程介绍：https://www.aihorizon.cn/107
-
-百度网盘地址： https://pan.baidu.com/s/1NP8SZc5D3Ol_Ej_Kb42QyQ?pwd=otdq
-
-### 在 Go (Golang) 中使用 WebSockets
-课程介绍：https://www.aihorizon.cn/108
-
-百度网盘地址： https://pan.baidu.com/s/1QVnl3ksqOp1PgDwGrj5Crw?pwd=btbs
-
-### 完整的ASP NET MVC Web 开发教程
-课程介绍：https://www.aihorizon.cn/129
-
-百度网盘地址： https://pan.baidu.com/s/1tarxUTa-F0KOPeXXmocLLg?pwd=7evf
+### 百度网盘地址： https://pan.baidu.com/s/1CsCVJFLuUnuK6cs1ylgLIg?pwd=vlru
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/U5BaFzNGb71
+- React、Next.js和Django：快速指南，React, Next.js and Django A Rapid Guide - Advanced
+- WordPress主题及插件完整开发教程，Complete WordPress Theme & Plugin Development Course
+- HTML,CSS&PythonDjango全栈Web开发，HTML, CSS & Python Django Full Stack for Web Development
+- Angular新手到大师全教程，The Complete Angular Course Beginner to Advanced
+- HTML&CSS完整指南：像老板一样建立网站，HTML CSS Complete Guide Build a Website Like a Boss
+- 用3个项目从头开始完成Bootstrap5课程，Complete Bootstrap 5 Course From Scratch With 3 Projects
+- PythonDjango电子商务网站教程，Django Ecommerce Project with Bootstrap  Django Development
+- 构建一个使用PHP和MySQL的电子商务网站，Online Store E-Commerce Website in PHP & MySQL From Scratch!
+- 使用React、Node和Stripe构建购物车应用，Build a Shopping Cart App with React, Node, and Stripe
+- 完整的渐进式Web应用训练营，Complete Progressive Web App Bootcamp
+- 使用SpringBoot和MongoDB进行全栈开发，Full Stack Development With Spring Boot And MongoDB
+- 通过构建电影网页应用来学习Vue.js，Vue.js Learning the basics by building a movie web app
+- 使用JQuery开发WordPress插件（2021年，WordPress Plugin Development with JQuery (2021)
+- 在Go(Golang)中使用WebSockets，Working with WebSockets in Go (Golang)
+- 完整的ASPNETMVCWeb开发教程，Complete ASP NET MVC Web Development - Newbie to Ninja!
+- 2022前端框架Angular视频教程，Angular - The Complete Guide (2022 Edition)
+- 熟练掌握TypeScript教程-2022，Mastering TypeScript - 2022 Edition
+- Django 4 和 Python 全栈开发者大师班，Django 4 and Python Full-Stack Developer Masterclass (12.2021)
+- NGINX 基础知识：从零开始配置高性能服务器，NGINX Fundamentals High Performance Servers from Scratch
+- Chrome开发者工具课程，Chrome Developer Tools Course
+- 谷歌浏览器扩展开发初学者课程，Google Chrome Extension Development From Beginning [2021]
+- 高级WordPress主题开发完整指南，The Complete Guide to Building Premium WordPress Themes
+- 高级Shopify主题开发教程，Build an Advanced Shopify Theme from the Future (Vue.js 3.0)
 
 ## 编程语言
-### 使用Spring Boot构建金融App
-课程介绍：https://www.aihorizon.cn/8
-
-百度网盘地址： https://pan.baidu.com/s/1muMB5UJymzS1iulppUVRlA?pwd=yeq8
-
-### 通过Pycharm学习Python3
-课程介绍：https://www.aihorizon.cn/15
-
-百度网盘地址： https://pan.baidu.com/s/1txKZEKsvRE5Wpgjpwst3dA?pwd=qyn7
-
-### 使用 Spring Boot 和 Spring Cloud 掌握微服务
-课程介绍：https://www.aihorizon.cn/17
-
-百度网盘地址： https://pan.baidu.com/s/1us3cXyexxlEOsZYC1jbsJw?pwd=j9hr
-
-### QT6 C++ 开发教程
-课程介绍：https://www.aihorizon.cn/18
-
-百度网盘地址： https://pan.baidu.com/s/12G7om16msseMSm8s-ptMkA?pwd=wmfu
-
-### JavaScript从零开始实战教程
-课程介绍：https://www.aihorizon.cn/24
-
-百度网盘地址： https://pan.baidu.com/s/10HqjcZ4xg-Eu5avUCyLGdw?pwd=h66y
-
-### NodeJs：初学者实用指南 - 电子商务 Web API构建
-课程介绍：https://www.aihorizon.cn/25
-
-百度网盘地址： https://pan.baidu.com/s/1a6zAkzG78jqtUYFF8gWzoQ?pwd=h3kk
-
-### Python 算法交易：市场中性对冲基金策略
-课程介绍：https://www.aihorizon.cn/26
-
-百度网盘地址： https://pan.baidu.com/s/1lJyLzFY3AHBCJC-2b2sjxQ?pwd=6v05
-
-### Java Persistence Hibernate 和 JPA 基础教程
-课程介绍：https://www.aihorizon.cn/31
-
-百度网盘地址： https://pan.baidu.com/s/1oEpuIcDEwavxR2hIYQ574g?pwd=p6ao
-
-### 面向初学者的 PHP：2021 年 PHP 速成课程
-课程介绍：https://www.aihorizon.cn/33
-
-百度网盘地址： https://pan.baidu.com/s/14WE7zJFDFhKVn-QrIqT51A?pwd=j54m
-
-### 使用TKinter 进行Python GUI编程
-课程介绍：https://www.aihorizon.cn/34
-
-百度网盘地址： https://pan.baidu.com/s/1x_4NVexDSy3I--gq-4j9CA?pwd=kk7t
-
-### 高级 Scala 和函数式编程
-课程介绍：https://www.aihorizon.cn/36
-
-百度网盘地址： https://pan.baidu.com/s/1n0_36W59P8dxTtBz7aYaLg?pwd=fapn
-
-### Perl 初学者编程
-课程介绍：https://www.aihorizon.cn/47
-
-百度网盘地址： https://pan.baidu.com/s/1iBLncqtwaAGYinOjexG6XA?pwd=2rtc
-
-### Spring Boot Actuator - 构建管理仪表板
-课程介绍：https://www.aihorizon.cn/48
-
-百度网盘地址： https://pan.baidu.com/s/1FyKjmwJJ_RfxdxyHTEvhGA?pwd=5jiu
-
-###  Java 开发训练营
-课程介绍：https://www.aihorizon.cn/49
-
-百度网盘地址： https://pan.baidu.com/s/1NBx_iPjVwvbgoZABBMnn9A?pwd=i411
-
-###  R语言科学计算 - 7 合 1课程
-课程介绍：https://www.aihorizon.cn/50
-
-百度网盘地址： https://pan.baidu.com/s/1Knq2dM7-S5gM72cYHtjj2w?pwd=020p
-
-### 掌握NestJS - JavaScript Node.js 框架
-课程介绍：https://www.aihorizon.cn/51
-
-百度网盘地址： https://pan.baidu.com/s/1t2sHoN1d6vTu0Ni7BmJZGw?pwd=1wd2
-
-### 使用 Python 实现 Excel 自动化
-课程介绍：https://www.aihorizon.cn/64
-
-百度网盘地址： https://pan.baidu.com/s/1ULngfsy0aFUo3c8zFw9j4w?pwd=e5vs
-
-### Scala 初学者编程完整指南
-课程介绍：https://www.aihorizon.cn/65
-
-百度网盘地址： https://pan.baidu.com/s/1A7ilgnpHFXbKtBV5tKG2ow?pwd=sczs
-
-### R语言数据科学编程-新手到大师
-课程介绍：https://www.aihorizon.cn/66
-
-百度网盘地址： https://pan.baidu.com/s/19xzkNuNvmZKxFUta30XScw?pwd=6os7
-
-### 面向初学者的 Java 编程语言
-课程介绍：https://www.aihorizon.cn/75
-
-百度网盘地址： https://pan.baidu.com/s/1nwzW93BeNcCYIk4hBLqkCw?pwd=x5fg
-
-### Java 设计模式大师班
-课程介绍：https://www.aihorizon.cn/85
-
-百度网盘地址： https://pan.baidu.com/s/1jUmxyKNSzArT2l6NKZE50A?pwd=qwo0
-
-### Java 初学者完全教程
-课程介绍：https://www.aihorizon.cn/86
-
-百度网盘地址： https://pan.baidu.com/s/1mk9qTdF0jLPjRmDwoSfbhg?pwd=hc3d
-
-### Java Swing (GUI) 编程：从初学者到专家
-课程介绍：https://www.aihorizon.cn/87
-
-百度网盘地址： https://pan.baidu.com/s/1onnq-VQcGvE8iZXZDjORmg?pwd=fznf
-
-### JavaScript 游戏开发：创建僵尸部落游戏
-课程介绍：https://www.aihorizon.cn/88
-
-百度网盘地址： https://pan.baidu.com/s/1SfGZgrv1HFnVyn6tundisQ?pwd=0zp3
-
-### 如何使用 Kotlin 编写更简洁的 Android 代码
-课程介绍：https://www.aihorizon.cn/89
-
-百度网盘地址： https://pan.baidu.com/s/1v-gObBOOyYIpTDUwUH7Z8Q?pwd=4bw6
-
-### 使用 Spring Cloud Streams 创建 Kafka Streams
-课程介绍：https://www.aihorizon.cn/90
-
-百度网盘地址： https://pan.baidu.com/s/1rwYCFQgHj5rDBjNuKW2cTg?pwd=7iqv
-
-### 使用 NumPy 预处理数据
-课程介绍：https://www.aihorizon.cn/96
-
-百度网盘地址： https://pan.baidu.com/s/1Hful2ipRautv0QBX_pzdiw?pwd=2stf
-
-### 面向初学者的 SAS 编程教程
-课程介绍：https://www.aihorizon.cn/98
-
-百度网盘地址： https://pan.baidu.com/s/116xkjD8ERK7SlcSGTYMQaQ?pwd=59jh
-
-### Android 12 Jetpack Compose 开发者课程 - 从0到1
-课程介绍：https://www.aihorizon.cn/112
-
-百度网盘地址： https://pan.baidu.com/s/1Xzmw9cVpqU6_6A0_4KfYwA?pwd=3n2l
-
-### Dart - 从新手到专家的完整课程
-课程介绍：https://www.aihorizon.cn/115
-
-百度网盘地址： https://pan.baidu.com/s/1n-vEcsHhWSk1KG9w7Qh6TQ?pwd=ksdk
-
-### iOS 应用程序开发Swift教程
-课程介绍：https://www.aihorizon.cn/118
-
-百度网盘地址： https://pan.baidu.com/s/1HTUlsZPleVDkyzMKDnrsTg?pwd=iib5
-
-### 从零开始学习 Kotlin
-课程介绍：https://www.aihorizon.cn/120
-
-百度网盘地址： https://pan.baidu.com/s/1uX-MWaFzzDUyaIGgvO0Sng?pwd=x7sl
-
-### C++ 编程完全教程
-课程介绍：https://www.aihorizon.cn/122
-
-百度网盘地址： https://pan.baidu.com/s/1y_dyAHw1gMokfam5MJBI_g?pwd=5a9e
-
-### Java初学者教程
-课程介绍：https://www.aihorizon.cn/152
-
-百度网盘地址： https://pan.baidu.com/s/1JNW9qYYoOI_VSAzuipZPZQ?pwd=a4m7
-
-### Java基础教程
-课程介绍：https://www.aihorizon.cn/153
-
-百度网盘地址： https://pan.baidu.com/s/1DvX1A0NSQYCVj-WeIaxwlw?pwd=wjw8
-
-### Julia初学者教程
-课程介绍：https://www.aihorizon.cn/155
-
-百度网盘地址： https://pan.baidu.com/s/1aQsf_0_9LGkT1S0tAwks6w?pwd=nla5
-
-### Rust初学者完全指南
-课程介绍：https://www.aihorizon.cn/174
-
-百度网盘地址： https://pan.baidu.com/s/1a63koFTCYikm2WTY-lLB-A?pwd=dhhi
-
-###  Salesforce Apex训练营
-课程介绍：https://www.aihorizon.cn/175
-
-百度网盘地址： https://pan.baidu.com/s/1MySUCFqPvaiVtDp7sS4_-Q?pwd=bqit
-
-### Salesforce验证规则教程
-课程介绍：https://www.aihorizon.cn/176
-
-百度网盘地址： https://pan.baidu.com/s/1Fv3HKNrHDnEJEVpce5s5xg?pwd=nclm
-
-###  iOS 15中Swift 5开发教程
-课程介绍：https://www.aihorizon.cn/179
-
-百度网盘地址： https://pan.baidu.com/s/1gWQfueongkR2JNraq4Idig?pwd=fyja
+### 百度网盘地址： https://pan.baidu.com/s/11fq7xpyK2GWhU4P3M1FryQ?pwd=5f0c
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/Lmdx8NztFAN
+- 使用SpringBoot构建金融App，Hands On Spring Boot Course - Build a FinTech App
+- 通过Pycharm学习Python3，Learn Python 3 programming  Become job ready using Pycharm
+- 使用SpringBoot和SpringCloud掌握微服务，Master Microservices with Spring Boot and Spring Cloud
+- QTC++开发教程，QT Core Beginners with C++
+- JavaScript从零开始实战教程，Modern JavaScript From Scratch With Examples and Projects
+- NodeJs：初学者实用指南-电子商务WebAPI构建，NodeJs Build The Complete E-Commerce Web API
+- Python算法交易：市场中性对冲基金策略，Python Algo Trading Market Neutral Hedge Fund Strategy
+- JavaPersistenceHibernate和JPA基础教程，Java Persistence Hibernate and JPA Fundamentals
+- 面向初学者的PHP：2021年PHP速成课程，PHP for Beginners PHP Crash Course 2021
+- 使用TKinter进行PythonGUI编程，Python GUI Programming With TKinter - Build 10 GUI Projects
+- 高级Scala和函数式编程，Advanced Scala and Functional Programming
+- Perl初学者编程，Perl Programming for Beginners
+- SpringBootActuator-构建管理仪表板，Spring Boot Actuator - Build an Admin Dashboard
+- Java开发训练营，The Complete Java Development Bootcamp
+- R语言科学计算-7合1课程，The Complete R Programming for Data Science - 7 courses in 1
+- 掌握NestJS-JavaScriptNode.js框架，Master NestJS - The JavaScript Node.js Framework
+- 使用Python实现Excel自动化，Excel Automation Using Python
+- Scala初学者编程完整指南，Scala Programming For Beginners Complete Guide
+- R语言数据科学编程-新手到大师，R 4.0 Programming for Data Science - Beginners to Pro
+- 面向初学者的Java编程语言，Core Java Programming Language Tutorial for Beginners
+- Java设计模式大师班，Java Design Patterns - The Complete Masterclass
+- Java初学者完全教程， Java for Beginners -Learn all the Basics of Java
+- JavaSwing(GUI)编程：从初学者到专家，JAVA GUI Programming with Swing
+- JavaScript游戏开发：创建僵尸部落游戏，JavaScript Game Development Create a Zombie Horde Game
+- 如何使用Kotlin编写更简洁的Android代码，How to write clean Kotlin and Android code!
+- 使用SpringCloudStreams创建KafkaStreams，Kafka Streams with Spring Cloud Stream
+- 使用NumPy预处理数据，Preprocessing Data with NumPy
+- 面向初学者的SAS编程教程，Programming in SAS for beginners
+- Android12JetpackCompose开发者课程-从0到1，Android 12 Jetpack Compose Developer Course - From 0 To Hero
+- Dart-从新手到专家的完整课程，Dart - from Novice to Expert Complete Course
+- iOS应用程序开发Swift教程，SwiftUI Masterclass 2021 – iOS 15 App Development & Swift 5
+- 从零开始学习Kotlin，2021 - Learn Kotlin from scratch step by step
+- C++编程完全教程，A Complete Introduction to the C++ Programming Language
+- Java初学者教程，Java Basics for Beginners
+- Java基础教程，Java for Beginners - Learn all the Basics of Java
+- Julia初学者教程，Julia Programming For Beginners Learn Julia Programming
+- Rust初学者完全指南，Rust lang - The complete beginner's guide
+- SalesforceApex训练营，Salesforce Apex programming Language Bootcamp for 2021
+- Salesforce验证规则教程，Salesforce Validation Rules - Beginner to Advanced
+- iOS15中Swift5开发教程，SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5
+- Android及iOS黑客教程，Mobile Security and Hacking Android iOS
+- 使用 PyQT 和 Qt 设计器进行 Python GUI 开发，Python GUI Development with PyQT & Qt Designer (09.2021)
+- 使用 C++ 进行 CUDA 编程教程，CUDA programming with C++ Masterclass__2020-04
+- gRPC [Node.js] MasterClass：构建现代 API 和微服务，gRPC [Node.js] MasterClass Build Modern API & Microservices
+- Deno 完整教程，Deno - The Complete Introduction
+- QT 核心与 C++中级教程，QT Core Intermediate with C++
+- QML初学者教程，qml-for-beginners
+- QT 核心与 C++高级教程，QT Core Advanced with C++
+- Vue零基础实战教程，Vue from Scratch with Real Life Vue JS Web Application
+- Threejs及TypeScript教程，Three.js and TypeScrip
+- Webpack5构建微前端和Web应用程序2022教程，Webpack 5 Ninja (2022) - Build Micro frontend and web apps
+- 2022年Webpack 5初学者完整指南，Webpack 5 in 2022 The Complete Guide For Beginners
+- 掌握微控制器和嵌入式驱动程序开发，Mastering Microcontroller with Embedded Driver Development
+- 使用Ionic和Angular构建iOS、Android 和 Web 应用程序，Ionic - Build iOS, Android & Web Apps with Ionic & Angular
+- Material UI – React (2022) 版的完整指南，Material UI - The Complete Guide With React (2022) Editio
+- WebdriverIO – 完整的初学者课程 2022，WebdriverIO - Complete Beginner Course 2022
+- 构建Cucumber Playwright TypeScript自动化框架，Build a Cucumber Playwright Typescript Automation Framework
+- Playwright自动化软件测试教程，Automated Software Testing with Playwright
+- Playwright初学者教程，Playwright - Complete Beginner Course
+- Python商业和金融训练营，Complete 2-in-1 Python for Business and Finance Bootcamp
+- Greensock JavaScript动画教程，Master JavaScript Animations with Greensock
 
 ## 综合其他
-### Ansible新手到大师
-课程介绍：https://www.aihorizon.cn/11
-
-百度网盘地址： https://pan.baidu.com/s/1x8NY3zn1JekK0EBUwdWCmA?pwd=bpd3
-
-### Linux 命令行基础知识进阶
-课程介绍：https://www.aihorizon.cn/16
-
-百度网盘地址： https://pan.baidu.com/s/11wFquu7qZNoyR-fX_-c7Ww?pwd=hdtu
-
-### 使用 Python 进行自动化软件测试
-课程介绍：https://www.aihorizon.cn/22
-
-百度网盘地址： https://pan.baidu.com/s/1qIv3le1IDR-ihta9oXm3kw?pwd=fo4n
-
-### 软件测试完全训练营
-课程介绍：https://www.aihorizon.cn/28
-
-百度网盘地址： https://pan.baidu.com/s/1zofYoXZYdRlcp3TLjZJOwQ?pwd=huyo
-
-### Linux黑客教程从初学者到高级！
-课程介绍：https://www.aihorizon.cn/32
-
-百度网盘地址： https://pan.baidu.com/s/1uo5k5WcvSl2z33OwpdySqw?pwd=8e1n
-
-### Visual Studio Code速成教程
-课程介绍：https://www.aihorizon.cn/35
-
-百度网盘地址： https://pan.baidu.com/s/1DcTSWYvXylgftm7_rKTy3Q?pwd=op9f
-
-### Apache Tomcat 服务器从初学者到高手
-课程介绍：https://www.aihorizon.cn/37
-
-百度网盘地址： https://pan.baidu.com/s/1J6ls7nDaX8KxaeENHEzjvw?pwd=brf9
-
-### 通过JavaScript 学习构建区块链
-课程介绍：https://www.aihorizon.cn/44
-
-百度网盘地址： https://pan.baidu.com/s/1O_MWf7efq7sKskU_ydVXhg?pwd=y5u5
-
-### MATLAB教程
-课程介绍：https://www.aihorizon.cn/45
-
-百度网盘地址： https://pan.baidu.com/s/1arrJWhv03wova1CykgZntQ?pwd=xftx
-
-### 在解决问题的同时学习 MATLAB 编程技巧
-课程介绍：https://www.aihorizon.cn/46
-
-百度网盘地址： https://pan.baidu.com/s/1qtnPjdlQ8pN3vPQ0M5SH7w?pwd=4vuc
-
-### 使用 ENVI 软件完成遥感图像分析
-课程介绍：https://www.aihorizon.cn/53
-
-百度网盘地址： https://pan.baidu.com/s/1mLCMegAqvx4GgKzQiQ9-Nw?pwd=u9f7
-
-### MicroPython 中的硬件编程
-课程介绍：https://www.aihorizon.cn/56
-
-百度网盘地址： https://pan.baidu.com/s/1NPYTbEGWKtbx_XYs4Zeucw?pwd=zde1
-
-### 使用 Python 开发 QGIS 插件
-课程介绍：https://www.aihorizon.cn/60
-
-百度网盘地址： https://pan.baidu.com/s/1Eg5MHctQFhjo1WhVWRmYAA?pwd=08tu
-
-### 互联网安全和网络安全黑客指南
-课程介绍：https://www.aihorizon.cn/67
-
-百度网盘地址： https://pan.baidu.com/s/1uWSzOQJKIma8RRUt4TsgdA?pwd=yeta
-
-### 基于物联网的数据分析的高级 Python教程
-课程介绍：https://www.aihorizon.cn/68
-
-百度网盘地址： https://pan.baidu.com/s/1wIrWGy9LcdjqJpLUP6pLuw?pwd=bvni
-
-### 高级网页抓取教程（图像、图表、Ajax 动态）
-课程介绍：https://www.aihorizon.cn/69
-
-百度网盘地址： https://pan.baidu.com/s/1FzkLpahJDQ1-b6s31mw0QA?pwd=xyou
-
-### Git及Github 初学者到专家
-课程介绍：https://www.aihorizon.cn/73
-
-百度网盘地址： https://pan.baidu.com/s/1qW_GwSFCAtxH8SxnEr_Tgg?pwd=nc17
-
-### 物联网 (IoT) - 超级课程
-课程介绍：https://www.aihorizon.cn/82
-
-百度网盘地址： https://pan.baidu.com/s/1oyscQoaCnCtAI4pE_wCiRg?pwd=4u6k
-
-### IoT物联网速成课程
-课程介绍：https://www.aihorizon.cn/84
-
-百度网盘地址： https://pan.baidu.com/s/1mruQswoWxfCh-cV5nxCdMg?pwd=wf7w
-
-### 使用 JUnit 5 进行实用的 Java 单元测试
-课程介绍：https://www.aihorizon.cn/95
-
-百度网盘地址： https://pan.baidu.com/s/10ssJ6O8fzeE15IBF1tp0Ug?pwd=u6tg
-
-### 产品经理速成课程
-课程介绍：https://www.aihorizon.cn/97
-
-百度网盘地址： https://pan.baidu.com/s/1wcnRlqhWBmicIEs2svvlrw?pwd=uqcm
-
-### Python物联网教程
-课程介绍：https://www.aihorizon.cn/99
-
-百度网盘地址： https://pan.baidu.com/s/1qlXtoiErvWZov5-Ml-YUpQ?pwd=1pwq
-
-### Python 空间分析和地理空间数据科学教程
-课程介绍：https://www.aihorizon.cn/100
-
-百度网盘地址： https://pan.baidu.com/s/1ZE3z7C95a_RZe18FG3pQvw?pwd=ja1i
-
-### 无需编码免费制作专业网站
-课程介绍：https://www.aihorizon.cn/113
-
-百度网盘地址： https://pan.baidu.com/s/1hIX3ktDZq7LN_T0eY2l6YA?pwd=ua54
-
-### 加密艺术和 NFT 速成课程
-课程介绍：https://www.aihorizon.cn/114
-
-百度网盘地址： https://pan.baidu.com/s/1YsEy4-sy53_5JMhyoFkIoA?pwd=wrbl
-
-### 网络安全：使用 Python 3进行渗透测试
-课程介绍：https://www.aihorizon.cn/135
-
-百度网盘地址： https://pan.baidu.com/s/1wyAjoHBtQ0VyDIWCeoOJGg?pwd=hdc2
-
-### GeoServer完整教程
-课程介绍：https://www.aihorizon.cn/148
-
-百度网盘地址： https://pan.baidu.com/s/1CBZ4IWVMiop4VUxeQa4Adw?pwd=fjgu
-
-### Wireshark入门实践课程
-课程介绍：https://www.aihorizon.cn/149
-
-百度网盘地址： https://pan.baidu.com/s/1yvtianUyHfvBpIu00fkUOg?pwd=dvd7
-
-### Unity IoTAR物联网增强现实教程
-课程介绍：https://www.aihorizon.cn/151
-
-百度网盘地址： https://pan.baidu.com/s/1pQC_mx8ZZ8baBcrdiAAOSw?pwd=0cmn
-
-### Linux初学者教程
-课程介绍：https://www.aihorizon.cn/161
-
-百度网盘地址： https://pan.baidu.com/s/10bu0KZQWlGPdeRLxzDSsnw?pwd=2nlz
-
-### Linux安全新手教程
-课程介绍：https://www.aihorizon.cn/162
-
-百度网盘地址： https://pan.baidu.com/s/1ckcS0FJFfdG05HthwAJsZA?pwd=yht0
-
-### 程序员刷题指南
-课程介绍：https://www.aihorizon.cn/170
-
-百度网盘地址： https://pan.baidu.com/s/1Q1FuHCzD-6LlKVxxAaqfrA?pwd=iedu
-
-### Raspberry Pi 初学者完整教程
-课程介绍：https://www.aihorizon.cn/173
-
-百度网盘地址： https://pan.baidu.com/s/1q8V2ztm1wLPdhZ86oF7ixQ?pwd=8slg
-
-### 2022年SEO完整教程
-课程介绍：https://www.aihorizon.cn/177
-
-百度网盘地址： https://pan.baidu.com/s/1XLxFmrydAL6suh2g_HHxRQ?pwd=pa5s
-
-### WordPress网站SEO完整教程
-课程介绍：https://www.aihorizon.cn/185
-
-百度网盘地址： https://pan.baidu.com/s/1gv12_nmkw5dJcOo28zeo-w?pwd=robw
+### 百度网盘地址： https://pan.baidu.com/s/1ivLIGKt_3R0wncmCswMTRg?pwd=vd1h
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/G3xWY7tzmdv
+- Ansible新手到大师，Ansible Beginner to Pro
+- Linux命令行基础知识进阶，Linux Command Line basics to Advance
+- 使用Python进行自动化软件测试，Automated Software Testing with Python
+- 软件测试完全训练营，The Software Testing Bootcamp
+- Linux黑客教程从初学者到高级！，Learn Ethical Hacking Advance Level Using Kali Linux
+- VisualStudioCode速成教程，Visual Studio Code Crash Course 2019
+- ApacheTomcat服务器从初学者到高手，Apache Tomcat Server from Beginners to Advanced
+- 通过JavaScript学习构建区块链，Learn Blockchain By Building Your Own In JavaScript
+- MATLAB教程，Learn MATLAB
+- 在解决问题的同时学习MATLAB编程技巧，Learn MATLAB Programming Skills While Solving Problems
+- 使用ENVI软件完成遥感图像分析，Complete Remote Sensing Image Analysis with ENVI Software
+- MicroPython中的硬件编程，MicroPython Programming Hardware in MicroPython
+- 使用Python开发QGIS插件，QGIS plugin development with Python
+- 互联网安全和网络安全黑客指南，A Hacker's Guide to Internet Safety and Cybersecurity
+- 基于物联网的数据分析的高级Python教程，Advanced Python for IoT Based Data Analysis
+- 高级网页抓取教程（图像、图表、Ajax动态），Advanced Web scraping (Images, Charts, Dynamic with Ajax)
+- Git及Github初学者到专家，Complete Git and Github Beginner to Expert
+- 物联网(IoT)-超级课程，Internet of Things (IOT) - Full Course for Learners
+- IoT物联网速成课程，IoT Internet of Things Crash Course
+- 使用JUnit5进行实用的Java单元测试，Practical Java Unit Testing with JUnit 5
+- 产品经理速成课程，Product Management Crash Course
+- Python物联网教程，Python for IoT Tutorials
+- Python空间分析和地理空间数据科学教程，Spatial Analysis & Geospatial Data Science in Python
+- 无需编码免费制作专业网站，Blogger Make A Professional Website For Free With No Coding
+- 加密艺术和NFT速成课程，Crypto Art and NFT Crash Course
+- 网络安全：使用Python3进行渗透测试，Cyber Security Penetration Testing with Python
+- GeoServer完整教程，GeoServer from A-Z
+- Wireshark入门实践课程，Getting Started with Wireshark-The Ultimate Hands-On Course
+- UnityIoTAR物联网增强现实教程，Internet of Things using Augmented Reality in Unity IoTAR
+- Linux初学者教程，Linux for Beginners Linux Basics
+- Linux安全新手教程，Linux Security for Beginners
+- 程序员刷题指南，Mastering Coding Interviews & Competitions
+- RaspberryPi初学者完整教程，Raspberry Pi for Beginners - Python3, GPIOs, Pi Camera, Flask, and More!
+- 2022年SEO完整教程，SEO TRAINING Best SEO Techniques to Drive Traffic in 2021
+- WordPress网站SEO完整教程，The Ultimate SEO Training 2021 + SEO For WordPress Websites
+- 从工程师到技术经理：生存指南，From Engineer to Technical Manager A Survival Guide
+- Git零基础教程，Git from Scratch
+- Excel新手教程，Mastering Excel 2021 - Beginner
+- Excel新手到大师教程，Microsoft Excel - Excel from Beginner to Advanced
+- PowerPoint基础培训教程，PowerPoint 2021 Essential Training (Office 2021 LTSC)
+- 面向非技术人员的计算机网络简介，Introduction to Computer Networks for Non-Techies
+- 完整的实用正则表达式 (Regex) 2022，Complete Practical Regular Expressions (Regex) 2022
+- x86 汇编语言编程教程，x86 Assembly Language From Ground Up
+- ARM 汇编语言教程，ARM Assembly Language From Ground Up- Build over 50 Assembly Program
+- Postman：完整指南，Postman The Complete Guide - REST API Testin
+- 工程师控制系统简介，Introduction to Control Systems for Engineers
+- 飞行动力学教程，Flight Mechanics - From Theory to Certification of Aircraft
+- 飞行动力学矩阵计算教程，Flight Dynamics with Tensors
+- 六自由度飞行动力学，Flight Dynamics in Six Degrees of Freedom
+- 导弹和火箭控制C++模拟教程，Missile and Rocket Simulations in C++
+- 航空航天C++模拟教程，C++ in Aerospace Simulations
+- 产品经理视频教程，Become a Product Manager - Learn the Skills & Get the Job
+- SAP Business One B1 高级专业培训课程 2022，SAP-Business-B1-Advance-Pro-Training-2021
+- 领导力科学课程，The Science of Leadership
+- 跨境商务网站搭建教程，Ecommerce-Website-Design-Divi-Step-Step
+- 2022年终极NFT课程，The Ultimate NFT Course 2022 Buy, Sell, Create & Trade NFTs
+- 沟通技巧大师班，The Complete Communication Skills Master Class for Life
+- 工作沟通技巧，Workplace Communication You Can Speak Up at Meetings
+- 掌握 Microsoft Excel 宏和 Excel VBA，Master Microsoft Excel Macros and Excel VBA
+- VideoScribe Expert：制作专业视频，VideoScribe Expert Training Producing Professional Videos
+- 股市交易：完整的技术分析课程，Stock Market Trading The Complete Technical Analysis Course
+- 从零开始学习 TradingView Pine 脚本编程，Learn TradingView Pine Script Programming From Scratch
+- 适用于shopify商店的Google购物广告 2022教程，Google Shopping ads 2022 for shopify Store
+- 卖空及日间交易教程，Short Sell & Day Trading 2 Course Bundle 21 Hours
+- PCI-DSS 基础教程，Fundamentals of PCI-DSS
+- 传感器完整教程，Sensors Everything You Need To Know
+- 项目管理课程：从初学者到项目经理，The Project Management Course Beginner to PROject Manager
+- FortiGate防火墙教程，FortiGate Firewall NSE4 Version 7 Training Part1
+- 完整的金融分析师课程2022，The Complete Financial Analyst Course
 
 ## 云计算
-### Docker 及Kubernetes 完全指南
-课程介绍：https://www.aihorizon.cn/13
-
-百度网盘地址： https://pan.baidu.com/s/1eDPO_UKqcISY8DdgQm53vA?pwd=00q4
-
-### Kubernetes 实践 - 将微服务上云
-课程介绍：https://www.aihorizon.cn/43
-
-百度网盘地址： https://pan.baidu.com/s/17tu3SleLRFTz4XE2cOCHrA?pwd=5fc9
-
-### Kubernetes 和 Docker 专家教程
-课程介绍：https://www.aihorizon.cn/55
-
-百度网盘地址： https://pan.baidu.com/s/1hTzXWzoyInsNj9sthSMcfw?pwd=m9vs
-
-### 完整的云网络安全课程
-课程介绍：https://www.aihorizon.cn/71
-
-百度网盘地址： https://pan.baidu.com/s/1wA7o_eYDk38A82owizzI2w?pwd=d29y
-
-### 云计算和虚拟化：简介
-课程介绍：https://www.aihorizon.cn/72
-
-百度网盘地址： https://pan.baidu.com/s/1lrak60XOGEqMOI6lXYf6TQ?pwd=ns0j
-
-### 使用 Terraform 在云端部署 Infra
-课程介绍：https://www.aihorizon.cn/78
-
-百度网盘地址： https://pan.baidu.com/s/1_DC6BvNgeUhAxvUKwJwZGA?pwd=7rr1
-
-### Kubernetes 上的 Argo 工作流实践指南
-课程介绍：https://www.aihorizon.cn/81
-
-百度网盘地址： https://pan.baidu.com/s/12z8edprKpUBO4tWkRXGDyw?pwd=ejc4
-
-### 学习 Spring Cloud 微服务
-课程介绍：https://www.aihorizon.cn/93
-
-百度网盘地址： https://pan.baidu.com/s/1Ax0XuNFiC0k8uKoAlYYieg?pwd=dwbj
-
-### Docker & Kubernetes：实用指南
-课程介绍：https://www.aihorizon.cn/141
-
-百度网盘地址： https://pan.baidu.com/s/1ejQyUMNMqQlyppRXbQ99IA?pwd=jz7v
-
-### Docker 和 Kubernetes：完整指南
-课程介绍：https://www.aihorizon.cn/142
-
-百度网盘地址： https://pan.baidu.com/s/1xRHsIrz4Vpov91oP8e7Q-Q?pwd=im89
-
-### Docker 机器学习和数据科学大师班
-课程介绍：https://www.aihorizon.cn/143
-
-百度网盘地址： https://pan.baidu.com/s/1_T6YKfIQCsbQGwNwllexfw?pwd=t23a
-
-### Docker、Kubernetes、Swarm教程
-课程介绍：https://www.aihorizon.cn/144
-
-百度网盘地址： https://pan.baidu.com/s/1pT2NRnJ4DFH_g9ugaQGJiw?pwd=g1w1
-
-### Docker快速入门
-课程介绍：https://www.aihorizon.cn/145
-
-百度网盘地址： https://pan.baidu.com/s/1p5OdMKEeZvKzpJXRTDUV3A?pwd=bn89
+### 百度网盘地址： https://pan.baidu.com/s/1qGJzKMXtgKdVK77dcYR9Qw?pwd=r6r9
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/W3ThoLqRYmd
+- Docker及Kubernetes完全指南，Docker and Kubernetes The Complete Guide
+- Kubernetes实践-将微服务上云，Kubernetes Microservices
+- Kubernetes和Docker专家教程，Kubernetes and Docker Recipes for Experts (2-in-1 Course)
+- 完整的云网络安全课程，Cloud Computing and the Cyber Security Challenges
+- 云计算和虚拟化：简介，Cloud Computing and Virtualization An Introduction
+- 使用Terraform在云端部署Infra，Deploy Infra in the Cloud using Terraform
+- Kubernetes上的Argo工作流实践指南，Hands-On Guide to Argo Workflows on Kubernetes
+- 学习SpringCloud微服务，Microservices with Spring Cloud
+- Docker&Kubernetes：实用指南，Docker & Kubernetes The Practical Guide
+- Docker和Kubernetes：完整指南，Docker and Kubernetes The Complete Guide
+- Docker机器学习和数据科学大师班，Docker Masterclass for Machine Learning and Data Science
+- Docker、Kubernetes、Swarm教程，Docker Mastery with Kubernetes +Swarm from a Docker Captain
+- Docker快速入门，Docker Quick Start
+- Elasticsearch 完整指南，Complete Guide to Elasticsearch
+- RabbitMQ：使用 Java、Spring Boot 和 Spring MVC 进行消息传递，RabbitMQ - Messaging with Java, Spring Boot And Spring MVC
+- Elasticsearch 7 和 Elastic Stack：深入实践，Elasticsearch 7 and the Elastic Stack In Depth and Hands On
+- 终极Hadoop大数据教程，The Ultimate Hands-On Hadoop - Tame your Big Data!
 
 ## 数据算法
-### 数据结构及算法入门教程
-课程介绍：https://www.aihorizon.cn/23
-
-百度网盘地址： https://pan.baidu.com/s/1ieJDWs3gWBrSYkgflvnyKQ?pwd=9eqx
-
-### 初学者实用数据库课程：6门课程合1
-课程介绍：https://www.aihorizon.cn/39
-
-百度网盘地址： https://pan.baidu.com/s/1fERQTfilJjjh_AkbFtP9vw?pwd=3wl5
-
-### 图形数据库：通过 Spring Boot 学习 Neo4j
-课程介绍：https://www.aihorizon.cn/41
-
-百度网盘地址： https://pan.baidu.com/s/19OIBkPPvoSfPiFIjB5g4rg?pwd=jgzo
-
-### PostgreSQL 初学者教程 
-课程介绍：https://www.aihorizon.cn/58
-
-百度网盘地址： https://pan.baidu.com/s/1OlYJaeR8Xp5wPalc0rRvBw?pwd=i118
-
-### Python for Excel：将 xlwings 用于数据科学和金融
-课程介绍：https://www.aihorizon.cn/59
-
-百度网盘地址： https://pan.baidu.com/s/14_AOQtVygoMemuW-UhqKUg?pwd=n3gt
-
-### 用于数据分析和数据科学的 SQL教程
-课程介绍：https://www.aihorizon.cn/61
-
-百度网盘地址： https://pan.baidu.com/s/1zCd1vdBzUDsa88E4AWEoXg?pwd=cdfc
-
-### Tableau 10 中的顶级可视化技术
-课程介绍：https://www.aihorizon.cn/62
-
-百度网盘地址： https://pan.baidu.com/s/1a6_M2wtjE3JuyBdDNAqApQ?pwd=wxmk
-
-### 密码学算法
-课程介绍：https://www.aihorizon.cn/63
-
-百度网盘地址： https://pan.baidu.com/s/1mGaJ-EKbKdW6StaJbhFbuQ?pwd=p7eg
-
-### 数据库迁移教程
-课程介绍：https://www.aihorizon.cn/77
-
-百度网盘地址： https://pan.baidu.com/s/10chjjjRTaWLkxmT8Mjix9g?pwd=q89h
-
-### 算法设计与分析大师班
-课程介绍：https://www.aihorizon.cn/83
-
-百度网盘地址： https://pan.baidu.com/s/1JyCuBIbaxwNuQEhshXOQQA?pwd=3pa9
-
-### Microsoft SQL Server 备份和恢复课程
-课程介绍：https://www.aihorizon.cn/94
-
-百度网盘地址： https://pan.baidu.com/s/11RtTZwuWWSxtjbAW1-Ii-w?pwd=yllw
-
-### Nodejs MySQL 登录系统教程
-课程介绍：https://www.aihorizon.cn/102
-
-百度网盘地址： https://pan.baidu.com/s/1CEgz-NfdF0UTUrzGQ8UFEQ?pwd=celn
-
-### 时间和空间复杂度分析（大 O 表示法）
-课程介绍：https://www.aihorizon.cn/103
-
-百度网盘地址： https://pan.baidu.com/s/1yiLXMK4MsrFUiV5OmQDypg?pwd=6xta
-
-### 使用 Power BI 进行时间序列分析和预测
-课程介绍：https://www.aihorizon.cn/104
-
-百度网盘地址： https://pan.baidu.com/s/1ZE6TpX98x_zbtNM3ZT9tew?pwd=88cr
-
-### Python数据分析及可视化教程
-课程介绍：https://www.aihorizon.cn/137
-
-百度网盘地址： https://pan.baidu.com/s/15olCFfen7jo57LZhUiKldw?pwd=lgj1
-
-### Python特征工程及降维教程
-课程介绍：https://www.aihorizon.cn/146
-
-百度网盘地址： https://pan.baidu.com/s/1LzSgXWr8v8c8dlw7XZiAPQ?pwd=89l4
+### 百度网盘地址： https://pan.baidu.com/s/1mCEdU86NEamaGifJimRVBw?pwd=jtdn
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/2sNenshgsBZ
+- 数据结构及算法入门教程，Data Structures and Algorithms for Beginners
+- 初学者实用数据库课程：6门课程合1，Practical Database Course for Beginners : 6 courses in 1
+- 图形数据库：通过SpringBoot学习Neo4j，Graph Database  Neo4j with Spring Boot
+- PostgreSQL初学者教程，PostgreSQL Tutorial for Beginners - Learn PostgreSQL
+- PythonforExcel：将xlwings用于数据科学和金融，Python for Excel: Use xlwings for Data Science and Finance
+- 用于数据分析和数据科学的SQL教程，SQL for Data Analysis & Data Science
+- Tableau10中的顶级可视化技术，Tableau Expert - Top Visualization Techniques in Tableau 10
+- 密码学算法，Algorithms for Cryptography
+- 数据库迁移教程，SQL Database Migration
+- 算法设计与分析大师班，Introduction to Design and Analysis of Algorithms
+- MicrosoftSQLServer备份和恢复课程，Microsoft SQL Server Backup and Recovery Course
+- NodejsMySQL登录系统教程，The Complete Nodejs MySQL Login System
+- 时间和空间复杂度分析（大O表示法），Time and space complexity analysis (big-O notation)
+- 使用PowerBI进行时间序列分析和预测，Time Series Analysis and Forecasting Model in Power BI
+- Python数据分析及可视化教程，Data Understanding and Data Visualization with Python
+- Python特征工程及降维教程，Feature Engineering and Dimensionality Reduction with Python
+- SQL 和 PostgreSQL：完整的开发人员指南，SQL and PostgreSQL The Complete Developer's Guide
 
 ## 产品设计
-### 7 个项目实战掌握 Photoshop 网页设计项目
-课程介绍：https://www.aihorizon.cn/109
-
-百度网盘地址： https://pan.baidu.com/s/1AEx5nh0PcBNZ6oZ9KdzMuw?pwd=r8h0
-
-### Photoshop网页设计、响应式设计及UI教程
-课程介绍：https://www.aihorizon.cn/110
-
-百度网盘地址： https://pan.baidu.com/s/1wZXHjt4X-rOuYpiq_ofHQA?pwd=a5xo
-
-### 成为人工智能产品经理
-课程介绍：https://www.aihorizon.cn/111
-
-百度网盘地址： https://pan.baidu.com/s/1_iAMQkrmkdLWrVVOIjPq7Q?pwd=7jjv
-
-### Adob​​e XD网页设计教程
-课程介绍：https://www.aihorizon.cn/123
-
-百度网盘地址： https://pan.baidu.com/s/1bNjeIvZK6RKfZ1O9fB-sHQ?pwd=8ixd
-
-### Photoshop网页设计教程
-课程介绍：https://www.aihorizon.cn/156
-
-百度网盘地址： https://pan.baidu.com/s/1DSIJTXfFiWYrwTHEsudi1g?pwd=k8o3
+### 百度网盘地址： https://pan.baidu.com/s/1lrp_xNFmk12cxxXU4MfM3A?pwd=c9fy
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/jVBbtPfwYyp
+- 7个项目实战掌握Photoshop网页设计项目，7 Photoshop Web Design Project. Learn UX Web Design by Doing
+- Photoshop网页设计、响应式设计及UI教程，Adobe Photoshop CC - Web Design, Responsive Design & UI
+- 成为人工智能产品经理，AI Product Manager ND v1.0.0
+- Adob​​eXD网页设计教程，Adobe XD for Web Design Essential Principles for UI & UX
+- Photoshop网页设计教程，Learn Photoshop, Web Design & Profitable Freelancing
+- Final Cut Pro X 教程，Final Cut Pro X Tutorial
+- Autodesk AutoCAD初级到高级教程，Autodesk AutoCAD - Beginner to an advanced level
+- AutoCAD 初学者课程，AutoCAD Beginners Course
+- Adobe After Effects从新手到专家的完整课程，Adobe After Effects Complete Course from Novice to Expert
+- Catia V5 实践项目从初学者到专家设，Catia V5 Practice Projects - From Beginner to Expert Designs
+- Adobe Premiere Pro CC – 基础培训课程，Adobe Premiere Pro CC – Essentials Training Cours
+- Final Cut Pro X初级到中级完整课程，The Complete Final Cut Pro X Course Beginner To Intermediat
+- Adobe Audition CC完整初学者指南，Adobe Audition Cc - Complete Beginners Guide to Intermediat
+- VideoScribe白板动画教程，VideoScribe Advanced TrainingMastering Whiteboard Animation
+- VideoScribe基础教程创建动画视频，VideoScribe Fundamentals Training Creating Animated Videos
 
 ## 机考面试
-### 掌握系统架构设计面试
-课程介绍：https://www.aihorizon.cn/117
+### 百度网盘地址： https://pan.baidu.com/s/1BPQlDhv96MLcMbgmzGiiuA?pwd=f3v9
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/tgtRLA781KE
+- 掌握系统架构设计面试，Mastering the System Design Interview
+- Java和Python中的20个基本编码面试问题，20 Essential Coding Interview Questions in Java and Python
+- 50个常问编码面试问题，50 popular coding interview problems
+- Python算法和数据结构面试指南，Algorithms and Data Structures in Python (INTERVIEW Q&A)
+- Android开发者面试准备指南，Android Developer Interview Preparation Guide
+- JavaScript编码面试指南，Beat the Codility Coding Interview in JavaScript
+- Java面试指南，Java Interview Help
+- JavaLeetCode算法编程面试教程，LeetCode in Java Algorithms Coding Interview Questions
+- PythonLeetCode：50个算法编程面试题，LeetCode In Python 50 Algorithms Coding Interview Questions
+- Web开发面试指南，Mastering Web Developer Interview Code
+- Java面试指南，Nail Your Java Interview
+- 软件测试面试问题及答案，Software Testing Interview Questions with Answers
+- 程序员面试及机考完全指南，The Bible of Coding Interviews & Competitive Programming
+- 世界上最畅销的求职课程，[2022] Career Hacking World's Bestselling Job Search Course
 
-百度网盘地址： https://pan.baidu.com/s/1I07CkzLCLgrEcEN9RfMgJQ?pwd=e5c4
+## Web3.0
+### 百度网盘地址： https://pan.baidu.com/s/1gDdZ0VL5NEd-SdSszDGO6w?pwd=52f0
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/XXsiy2LJRG9
+- Web3.0入门教程，What Is Web3?
+- Moralis去中心化Web3应用开发教程，Moralis Web3 dApp Programming
+- React中的Solidity和Ethereum(NextJS)：完整指南，Solidity & Ethereum in React (Next JS): The Complete Guide
+- MetaverseWeb3.0和DeFi大师班，Metaverse Web 3.0 and DeFi: A Fintech Masterclass
+- 无代码构建Web3.0应用，How to build Web 3.0 apps with No-code
+- Solidity区块链完整开发指南，The Complete Solidity Course – Blockchain – Zero to Expert
+- 智能合约安全教程，Ethereum Smart Contract Security
+- 基于React、Typescript和Solidity的 NFT完整教程，NFT Marketplace in React, Typescript & Solidity - Full Guide
+- 完整NFT Web开发课程，The Complete NFT Web Development Course - Zero To Expert
+- Solana区块链开发教程，Solana Blockchain Developer Bootcamp with Rust + Javascript
 
-### Java 和 Python 中的 20 个基本编码面试问题
-课程介绍：https://www.aihorizon.cn/119
+## 教育考试
+### 百度网盘地址： https://pan.baidu.com/s/1eb-XCeEI5p5Z88Soc-hhog?pwd=wquE
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/eVFrA5vyZsa
+- 雅思写作课程 band 7+1，Score band 7 + in Academic IELTS Writing Task 1
+- 掌握雅思写作：任务 2（在 7 小时内达到 7+ 级），Mastering IELTS Writing Task 2 (Achieve Band 7+ in 7 Hours)
+- 雅思写作高分课程（通用培训模块），Score High Ielts Writing (General Training Module)
+- 雅思口语高分课程，Score High Ielts Speaking
+- 雅思技能提升：雅思 Task 1 学术写作课程，Move Up In IELTS - Succeed in IELTS Task 1 Academic Writing
+- 雅思 Band 7+ 预备课程，IELTS Band 7+ Complete Prep Course
 
-百度网盘地址： https://pan.baidu.com/s/1H_l8GuQ-rBhDdRJC33XJyA?pwd=q4r2
-
-### 50个常问编码面试问题
-课程介绍：https://www.aihorizon.cn/121
-
-百度网盘地址： https://pan.baidu.com/s/1qo7XAST29pOIkrulOeokfg?pwd=j5hj
-
-### Python算法和数据结构面试指南
-课程介绍：https://www.aihorizon.cn/124
-
-百度网盘地址： https://pan.baidu.com/s/1_eqQEyl-6B7yX_GwehXYJw?pwd=oucl
-
-### Android开发者面试准备指南
-课程介绍：https://www.aihorizon.cn/125
-
-百度网盘地址： https://pan.baidu.com/s/1-Fa9hhQ-ieurYmivHavw0g?pwd=crxv
-
-### JavaScript编码面试指南
-课程介绍：https://www.aihorizon.cn/126
-
-百度网盘地址： https://pan.baidu.com/s/17fKfyCJa4eJms5OIA3VfpA?pwd=4fst
-
-### Java面试指南
-课程介绍：https://www.aihorizon.cn/154
-
-百度网盘地址： https://pan.baidu.com/s/1-Br-s8Fv3QayrfvxstPZAw?pwd=ud3t
-
-### Java LeetCode算法编程面试教程
-课程介绍：https://www.aihorizon.cn/159
-
-百度网盘地址： https://pan.baidu.com/s/1H0sRWHfXe1TRz_-5abf7Xw?pwd=vx2u
-
-### Python LeetCode：50 个算法编程面试题
-课程介绍：https://www.aihorizon.cn/160
-
-百度网盘地址： https://pan.baidu.com/s/1YZOXn-GNeNSr3XCWPMhAlQ?pwd=h814
-
-### Web开发面试指南
-课程介绍：https://www.aihorizon.cn/171
-
-百度网盘地址： https://pan.baidu.com/s/1L5VHHhBTgIARZyAX1GIRyg?pwd=jvy4
-
-### Java面试指南
-课程介绍：https://www.aihorizon.cn/172
-
-百度网盘地址： https://pan.baidu.com/s/1uHwomxYx7OK4XMFz1ebuoA?pwd=4yjf
-
-### 软件测试面试问题及答案
-课程介绍：https://www.aihorizon.cn/178
-
-百度网盘地址： https://pan.baidu.com/s/1PtjzluE-AY4pwwh-_jvXAw?pwd=mi7g
-
-### 程序员面试及机考完全指南
-课程介绍：https://www.aihorizon.cn/183
-
-百度网盘地址： https://pan.baidu.com/s/1d7p-mci36g78YJ-hPJP9uw?pwd=98o7
+## GIS开发
+### 百度网盘地址： https://pan.baidu.com/s/1wJ_zQikK1_aDGQFLMZ0goQ?pwd=n92S
+### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/279W9HUEmDB
+- GIS 应用程序的 Web 编程简介，Introduction to web programming for GIS applications
+- QGIS 3初级到高级，QGIS 3 - from Beginner to Advance
+- ArcGIS流域划分基础知识初学者课程，Learn the basics of GIS and use of ArcGIS softwar
+- Python QGIS 3自动化教程，Automating QGIS 3.xx with Python
+- Openlayers 6 零基础教程，Openlayers 6 From Scratch With A Projec
+- GIS 和遥感QGIS初学者教程，Get started with GIS & Remote Sensing in QGIS #Beginner
+- QGIS 超级课程：GIS 和遥感 – 从初学者到专家，QGIS Mega Course - GIS and Remote Sensing- Beginner to Exper
+- QGIS地理信息系统教程：GIS分析基础，Geographic Information System in QGIS - Basic of GIS Analysi
+- QGIS空间分析项目实战，Practical GIS in QGIS - Project-based GIS, Spatial Analysi
+- QGIS 用于GIS中的土地退化评估和SDG监测，QGIS for Land Degradation Assessment & SDG monitoring in GIS
+- 基于Leaflet 和 PostGIS 的服务端 Web GIS 应用程序开发教程，Server-side web GIS applications with Leaflet and PostGIS
+- QGIS无人机数据分析教程，GIS for Drone Pilots using QGIS (w - Airspace Data Template
