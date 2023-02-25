@@ -1,7 +1,7 @@
-# 计算机视频教程
+# 计算机中英字幕精品教程
 ## 人工智能
 ### 百度网盘地址： https://pan.baidu.com/s/1_eoVIwUijTDjw8v5pVDccA?pwd=ndku
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/h6VPyoJbaDm
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/ac8226352700
 - 机器学习：Python&R实践，Machine Learning A-Z: Hands-On Python & R In Data Science
 - 动手使用Python进行自然语言处理(NLP)，Hands On Natural Language Processing (NLP) using Python
 - 自动驾驶—计算机视觉全课程，Autonomous Cars The Complete Computer Vision Course 2021
@@ -45,10 +45,20 @@
 - Javascript机器学习教程，Machine Learning with Javascript
 - Python工作任务自动化教程，Automate the Boring Stuff with Python Programming
 - Python遗传算法初学者教程，The Ultimate Beginners Guide to Genetic Algorithms In Python
+- Python金融领域人工智能教程，Financial Engineering and Artificial Intelligence in Python
+- 机器学习数据不均衡处理教程，Machine Learning with Imbalanced Data
+- ROS2初学者2022教程，ROS2 For Beginners (ROS Foxy, Humble - 2022)
+- ChatGPT初学者写作教程，ChatGPT for Beginners - Get Up & Running with ChatGPT Now
+- ChatGPT各种玩法教程，OpenAI ChatGPT - Learn How to Use an AI Bo
+- 声纹分割聚类教程，A Tutorial on Speaker Diarization
+- 高级驾驶辅助系统 (ADAS)教程，Advanced Driver Assistance Systems (ADAS)
+- Python生物统计学基础教程，Biostatistics Fundamentals using Python
+- ROS2 Nav2 [Navigation 2 Stack] –SLAM导航教程，ROS2 Nav2 [Navigation 2 Stack] - with SLAM and Navigation
+- 深度学习语音识别教程，Speaker Recognition  By Award Winning Textbook Author
 
 ## 游戏开发
 ### 百度网盘地址： https://pan.baidu.com/s/1301-Ypy2oEP71O2eG1Eakg?pwd=hsgs
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/fPTXdSUUzbe
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/b7d5097a3c56
 - UE4：学习C++开发游戏，Unreal Engine C++ Developer Learn C++ and Make Video Games
 - 精通UE4：使用C++创建多人游戏，Unreal Engine 4 Mastery: Create Multiplayer Games with C++
 - 使用PyGame进行FlappyBird开发，Game Development with PyGame   Real World Games
@@ -76,10 +86,21 @@
 - Oculus Quest 2 和 Unity 的 VR 开发基础知识，VR Development Fundamentals With Oculus Quest 2 And Unity
 - Unity VR太空射击游戏教程，Learn Unity Games Engine & C# By Creating A VR Space Shooter
 - Unity计算着色器视频教程，Learn to Write Unity Compute Shaders
+- Maya Xgen游戏角色的头发创作教程，Hair Creation for Game Characters Maya Xgen
+- 2023年Unity UI教程，Modern Unity UI with UI Toolkit
+- Scratch少儿编程英语教程，Programming for Kids and Beginners Learn to Code in Scratch
+- Unity Cg着色器开发教程，Shader Development from Scratch for Unity with Cg
+- Unity人工智能初学者指南，The Beginners Guide to Artificial Intelligence Unity 2022
+- Blender 3D环境场景创建教程，Creating 3D Environments in Blender 2.81 by Rob Tuytel (2019)
+- Unity VFX图表初级到中级教程，Unity VFX Graph - Beginner To Intermediate
+- 虚幻引擎VR游戏开发基础教程，Unreal Engine VR Development Fundamentals
+- Unity初学者Shader Graph教程，Your Ultimate Guide to Shader Graph for Beginners
+- 3D Lighting理论与实践教程，3D Lighting Theory and Practice
+- Zbrush新手教程，Absolute Beginners ZBrush Course
 
 ## Web开发
 ### 百度网盘地址： https://pan.baidu.com/s/1CsCVJFLuUnuK6cs1ylgLIg?pwd=vlru
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/U5BaFzNGb71
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/f22e63655397
 - React、Next.js和Django：快速指南，React, Next.js and Django A Rapid Guide - Advanced
 - WordPress主题及插件完整开发教程，Complete WordPress Theme & Plugin Development Course
 - HTML,CSS&PythonDjango全栈Web开发，HTML, CSS & Python Django Full Stack for Web Development
@@ -103,10 +124,11 @@
 - 谷歌浏览器扩展开发初学者课程，Google Chrome Extension Development From Beginning [2021]
 - 高级WordPress主题开发完整指南，The Complete Guide to Building Premium WordPress Themes
 - 高级Shopify主题开发教程，Build an Advanced Shopify Theme from the Future (Vue.js 3.0)
+- Flask全栈开发教程，Web Developer Bootcamp with Flask and Python
 
 ## 编程语言
 ### 百度网盘地址： https://pan.baidu.com/s/11fq7xpyK2GWhU4P3M1FryQ?pwd=5f0c
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/Lmdx8NztFAN
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/788b3e6fe392
 - 使用SpringBoot构建金融App，Hands On Spring Boot Course - Build a FinTech App
 - 通过Pycharm学习Python3，Learn Python 3 programming  Become job ready using Pycharm
 - 使用SpringBoot和SpringCloud掌握微服务，Master Microservices with Spring Boot and Spring Cloud
@@ -168,10 +190,19 @@
 - Playwright初学者教程，Playwright - Complete Beginner Course
 - Python商业和金融训练营，Complete 2-in-1 Python for Business and Finance Bootcamp
 - Greensock JavaScript动画教程，Master JavaScript Animations with Greensock
+- Minecraft插件Java开发教程，Develop Minecraft Plugins Java
+- 2022深入学习C++教程，Learn C++ Programming -Beginner to Advance- Deep Dive in C++
+-  Go编程项目实战教程，Learn Go Programming by Building 11 Projects – Full Course
+- 使用 Web 应用程序示例在 Java 中进行安全编码，Secure coding Dive into Injections with Java & Spring boot
+- LaTeX从基础到高级综合指南，LaTeX A-Z Simplified  Basics to Advanced Step-wise Journey
+- WebVR A-Frame学习教程，Learn A-Frame And Get Ready For WebVR
+- TestNG初级到高级教程2023，Master Course on TestNG Beginner to Advanced 2023
+- 使用PySide6进行Python GUI开发 – Qt for Python，Python GUI Development with PySide6 - Qt for Python
+- SocketIO详细教程，socketio-with-websockets-the-details
 
 ## 综合其他
 ### 百度网盘地址： https://pan.baidu.com/s/1ivLIGKt_3R0wncmCswMTRg?pwd=vd1h
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/G3xWY7tzmdv
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/c284e4d413f3
 - Ansible新手到大师，Ansible Beginner to Pro
 - Linux命令行基础知识进阶，Linux Command Line basics to Advance
 - 使用Python进行自动化软件测试，Automated Software Testing with Python
@@ -241,10 +272,24 @@
 - 项目管理课程：从初学者到项目经理，The Project Management Course Beginner to PROject Manager
 - FortiGate防火墙教程，FortiGate Firewall NSE4 Version 7 Training Part1
 - 完整的金融分析师课程2022，The Complete Financial Analyst Course
+- 完整的吉他课程系统 – 从初级到高级，Complete Guitar Lessons System (2020)
+- FL Studio 20音乐制作教程，FL Studio 20 Music Production In FL Studio for Mac & PC
+- 从零开始学习JMETER性能测试，Learn JMETER from Scratch on Live Apps Performance Testing
+- 使用 Jest 和 React 测试库 (RTL) 测试 React，Testing React with Jest and React Testing Library (RTL)
+- 计算流体力学基础课程，Computational Fluid Dynamics Fundamentals Course
+- 在线商务大师班：销售您自己的数字产品，Digital Products Masterclass Start Your Own Online Business
+- 有限元分析培训：Altair Hypermesh & Abaqus，Finite Element Analysis Training  Altair Hypermesh & Abaqus
+- 如何创建在线课程 – 终极入门指南，How To Create Online Courses the Ultimate Starting Guide
+- Memoq 10.0使用教程，Learn how to use Memoq
+- 掌握CAN网络：Vector CANoe、CANalyzer、CAPL&理论，Mastering CAN Network Vector CANoe,CANalyzer, CAPL& Theory
+- 机器交易系统教程，Mechanical Trading Systems Using Technical Analysis
+- Puppet DevOps新手教程，Puppet for the Absolute Beginners - Hands-on - DevOps
+- Tradingview Pine Script策略完整教程，Tradingview Pine Script Strategies The Complete Guide
+- UPF电源感知设计与验证，UPF Power Aware Design & Verification
 
 ## 云计算
 ### 百度网盘地址： https://pan.baidu.com/s/1qGJzKMXtgKdVK77dcYR9Qw?pwd=r6r9
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/W3ThoLqRYmd
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/03b693d077ec
 - Docker及Kubernetes完全指南，Docker and Kubernetes The Complete Guide
 - Kubernetes实践-将微服务上云，Kubernetes Microservices
 - Kubernetes和Docker专家教程，Kubernetes and Docker Recipes for Experts (2-in-1 Course)
@@ -262,10 +307,14 @@
 - RabbitMQ：使用 Java、Spring Boot 和 Spring MVC 进行消息传递，RabbitMQ - Messaging with Java, Spring Boot And Spring MVC
 - Elasticsearch 7 和 Elastic Stack：深入实践，Elasticsearch 7 and the Elastic Stack In Depth and Hands On
 - 终极Hadoop大数据教程，The Ultimate Hands-On Hadoop - Tame your Big Data!
+- Java分布式系统和云计算教程，Distributed Systems & Cloud Computing with Java
+- 基于事件驱动的微服务教程，Event-Driven Microservices Spring Boot, Kafka and Elastic
+- 事件驱动的微服务、CQRS、SAGA、Axon、Spring Boot，Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot
+- AWS高级网络专业认证教程，Ultimate AWS Certified Advanced Networking Specialty 2021
 
 ## 数据算法
 ### 百度网盘地址： https://pan.baidu.com/s/1mCEdU86NEamaGifJimRVBw?pwd=jtdn
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/2sNenshgsBZ
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/c5d5641c9b94
 - 数据结构及算法入门教程，Data Structures and Algorithms for Beginners
 - 初学者实用数据库课程：6门课程合1，Practical Database Course for Beginners : 6 courses in 1
 - 图形数据库：通过SpringBoot学习Neo4j，Graph Database  Neo4j with Spring Boot
@@ -283,10 +332,14 @@
 - Python数据分析及可视化教程，Data Understanding and Data Visualization with Python
 - Python特征工程及降维教程，Feature Engineering and Dimensionality Reduction with Python
 - SQL 和 PostgreSQL：完整的开发人员指南，SQL and PostgreSQL The Complete Developer's Guide
+- AWS DynamoDB完整教程，AWS DynamoDB - The Complete Guide (Build 18+ Hands On Demos)
+- Snowflake Decoded基础教程，Snowflake Decoded Fundamentals and hands on Training
+- PySpark大数据计算教程，Spark and Python for Big Data with PySpark
+- Python Apache Spark大数据实战教程，Taming Big Data with Apache Spark and Python - Hands On
 
 ## 产品设计
 ### 百度网盘地址： https://pan.baidu.com/s/1lrp_xNFmk12cxxXU4MfM3A?pwd=c9fy
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/jVBbtPfwYyp
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/aca0d5cff583
 - 7个项目实战掌握Photoshop网页设计项目，7 Photoshop Web Design Project. Learn UX Web Design by Doing
 - Photoshop网页设计、响应式设计及UI教程，Adobe Photoshop CC - Web Design, Responsive Design & UI
 - 成为人工智能产品经理，AI Product Manager ND v1.0.0
@@ -302,10 +355,18 @@
 - Adobe Audition CC完整初学者指南，Adobe Audition Cc - Complete Beginners Guide to Intermediat
 - VideoScribe白板动画教程，VideoScribe Advanced TrainingMastering Whiteboard Animation
 - VideoScribe基础教程创建动画视频，VideoScribe Fundamentals Training Creating Animated Videos
+- 7 小时精通 3ds Max，3ds Max Mastery in 7 Hrs - Project Based Intro for Beginners
+- After Effects动态图形和数据可视化，After Effects Motion Graphics & Data Visualization
+- Axure RP 9 原型设计基础教程，Axure RP 9 Fundamentals and Mobile prototyping for UX Design
+- Cinema 4D初学者终极指南，Cinema 4D Masterclass The Ultimate Guide for Beginners
+- Procreate iPad绘画教程，Drawing and Painting on the iPad with Procreate
+- Figma UI UX设计教程，Figma UI UX Design Essentials
+- Procreate绘画教程，Procreate Solid Foundations
+- SolidWorks综合教程，SOLIDWORKS Academy A Comprehensive Course on SolidWorks
 
 ## 机考面试
 ### 百度网盘地址： https://pan.baidu.com/s/1BPQlDhv96MLcMbgmzGiiuA?pwd=f3v9
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/tgtRLA781KE
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/48136b81ea4a
 - 掌握系统架构设计面试，Mastering the System Design Interview
 - Java和Python中的20个基本编码面试问题，20 Essential Coding Interview Questions in Java and Python
 - 50个常问编码面试问题，50 popular coding interview problems
@@ -323,7 +384,7 @@
 
 ## Web3.0
 ### 百度网盘地址： https://pan.baidu.com/s/1gDdZ0VL5NEd-SdSszDGO6w?pwd=52f0
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/XXsiy2LJRG9
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/64844d81ba2c
 - Web3.0入门教程，What Is Web3?
 - Moralis去中心化Web3应用开发教程，Moralis Web3 dApp Programming
 - React中的Solidity和Ethereum(NextJS)：完整指南，Solidity & Ethereum in React (Next JS): The Complete Guide
@@ -334,20 +395,34 @@
 - 基于React、Typescript和Solidity的 NFT完整教程，NFT Marketplace in React, Typescript & Solidity - Full Guide
 - 完整NFT Web开发课程，The Complete NFT Web Development Course - Zero To Expert
 - Solana区块链开发教程，Solana Blockchain Developer Bootcamp with Rust + Javascript
+- 2022 Python和C++加密货币量化交易策略，Backtesting Crypto Trading Strategies with Python & C++
 
 ## 教育考试
 ### 百度网盘地址： https://pan.baidu.com/s/1eb-XCeEI5p5Z88Soc-hhog?pwd=wquE
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/eVFrA5vyZsa
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/8a5f1918047b
 - 雅思写作课程 band 7+1，Score band 7 + in Academic IELTS Writing Task 1
 - 掌握雅思写作：任务 2（在 7 小时内达到 7+ 级），Mastering IELTS Writing Task 2 (Achieve Band 7+ in 7 Hours)
 - 雅思写作高分课程（通用培训模块），Score High Ielts Writing (General Training Module)
 - 雅思口语高分课程，Score High Ielts Speaking
 - 雅思技能提升：雅思 Task 1 学术写作课程，Move Up In IELTS - Succeed in IELTS Task 1 Academic Writing
 - 雅思 Band 7+ 预备课程，IELTS Band 7+ Complete Prep Course
+- A1到B2意大利语学习教程，Complete Italian course Learn Italian from level A1 to B2
+- PTE考试写作教程，PTE Academic Exam Preparation Writing Mastery (Achieve 79+)
+- 初级西班牙语教程，Spanish Made Simple Beginner Spanish
+- Duolingo English Test教程，Emergency Course for the Duolingo English Test (2-day prep)
+- 法语初级教程，French for Beginners  Level 1
+- 荷兰语初学者教程1，Learn Dutch... in Dutch 1 the Dutch language for beginners
+- 荷兰语初学者教程2，Learn Dutch... in Dutch 2 the Dutch language for beginners
+- 在线日语N1课程（共10节课），Online Japanese N1 Course(All 10 lessons)
+- 在线日语N2课程（共10节课），Online Japanese N2 Course(All 10 lessons)
+- 在线日语N3课程（共10节课），Online Japanese N3 Course(All 10 lessons)
+- 在线日语N4课程（共15节课），Online Japanese N4 CourseAll 15 lessons
+- 在线日语N5课程（共15节课），Online Japanese N5 Course(All 15 lessons)
+- 学术论文写作教程，Writing Winning Research Papers
 
 ## GIS开发
 ### 百度网盘地址： https://pan.baidu.com/s/1wJ_zQikK1_aDGQFLMZ0goQ?pwd=n92S
-### 阿里云盘地址（不限速）： https://www.aliyundrive.com/s/279W9HUEmDB
+### 夸克网盘地址（不限速）： https://pan.quark.cn/s/fec7e0850a0a
 - GIS 应用程序的 Web 编程简介，Introduction to web programming for GIS applications
 - QGIS 3初级到高级，QGIS 3 - from Beginner to Advance
 - ArcGIS流域划分基础知识初学者课程，Learn the basics of GIS and use of ArcGIS softwar
@@ -360,3 +435,4 @@
 - QGIS 用于GIS中的土地退化评估和SDG监测，QGIS for Land Degradation Assessment & SDG monitoring in GIS
 - 基于Leaflet 和 PostGIS 的服务端 Web GIS 应用程序开发教程，Server-side web GIS applications with Leaflet and PostGIS
 - QGIS无人机数据分析教程，GIS for Drone Pilots using QGIS (w - Airspace Data Template
+- Web GIS开发教程，Web GIS development course
